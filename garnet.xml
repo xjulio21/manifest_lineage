@@ -2,7 +2,7 @@
 <manifest>
     <!--
     * target: garnet
-    * rom: CrDroid
+    * rom: LineageOS
     -->
     
     <remote fetch="https://github.com/xjulio21" name="org" />
