@@ -10,6 +10,7 @@
 
     <project name="android_device_xiaomi_garnet" path="device/xiaomi/garnet" remote="org" revision="15.0" />
     <project name="proprietary_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="org" revision="15.0" />
+    <project name="kernel_new" path="kernel/xiaomi/garnet" remote="org" revision="android12-5.10" />
     <project name="android_xiaomi_kernel_garnet" path="device/xiaomi/garnet-prebuilt" remote="org" revision="15.0" />
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="org" revision="15.0" />
     <project name="vendor_xiaomi_miuicamera-garnet" path="vendor/xiaomi/miuicamera-garnet" remote="org2" revision="fifteen" />
